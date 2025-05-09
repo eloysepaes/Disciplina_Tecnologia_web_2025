@@ -1,12 +1,1 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Bem vindo ao meu primeiro site!</title>
-        <meta charset="utf8">
-    </head>
-    <body>
-        <h1>Minha primeira pagina</h1>
-        <hr>
-        <p>Estou aprendendo HMTL de uma forma divertida!</p>
-    </body>
-</html>
+Disciplina_Tecnologia_web_2025
